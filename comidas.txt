@@ -3,3 +3,5 @@ Jamon
 Zanahoria
 Aceitunas
 Kiwis
+Bananas
+Sandwiches
