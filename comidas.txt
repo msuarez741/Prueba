@@ -3,3 +3,6 @@ Jamon
 Zanahoria
 Aceitunas
 Auto
+Kiwis
+Bananas
+Sandwiches
