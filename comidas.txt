@@ -2,4 +2,4 @@ Arroz
 Jamon
 Zanahoria
 Aceitunas
-Kiwis
+Auto
